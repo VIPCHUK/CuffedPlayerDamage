@@ -1,3 +1,4 @@
+### CuffedPlayerDamage
 Disables damage to the cuffed player, but slows them down when shot at.
 
 ## Config
