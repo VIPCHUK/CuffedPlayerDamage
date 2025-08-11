@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuffedPlayerDamage", "CuffedPlayerDamage\CuffedPlayerDamage.csproj", "{21B76DD6-9661-42CB-A9AC-0EAC2B2F2DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B76DD6-9661-42CB-A9AC-0EAC2B2F2DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B76DD6-9661-42CB-A9AC-0EAC2B2F2DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B76DD6-9661-42CB-A9AC-0EAC2B2F2DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B76DD6-9661-42CB-A9AC-0EAC2B2F2DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
