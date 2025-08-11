@@ -9,7 +9,7 @@ public float SlowdownDuration { get; set; } = 1.5f;
 ```
 public byte SlowdownIntensity { get; set; } = 90;
 ```
-Disable or Enable plugin:
+- Disable or Enable plugin:
 ```
 public bool IsEnabled { get; set; } = true;
 ```
