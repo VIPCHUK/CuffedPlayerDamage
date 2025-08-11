@@ -10,8 +10,8 @@ Disables damage to the cuffed player, but slows them down when shot at.
 ## ⚙️ Configuration
 
 ```yaml
-# ScpChat Configuration
-scp_chat:
+# CuffedPlayerDamage Configuration
+cuffed_player_damage:
   is_enabled: true
   debug: false
 
